@@ -104,5 +104,10 @@ This project demonstrates a **full end-to-end Data + AI pipeline**:
 
 - From raw data ingestion → cleaning → aggregation → ML model training → automated orchestration  
 - Combines **data engineering, machine learning, and business analytics**  
-- Produces **actionable insights** and a **predictive model** for churn  
+- Produces **actionable insights** and a **predictive model** for churn
+
+## License
+This project is licensed under the **MIT License**.
+You are free to **use copy, modify,and learn from this project** for personal or educational purposes.
+If you use it in your owm projects, please **give credits** by linking back to this repository.
 
